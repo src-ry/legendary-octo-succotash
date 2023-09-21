@@ -11,11 +11,11 @@ following conditions:
   software; for example, you may not tell people you created
   or wrote this project if you are not the original author.
 
-  2. You must disclose the source and license of the software 
-  in the source code, including this notice. You do not need 
-  to disclose the license in the binary form of the software, 
-  but source attribution is always required in binary form in
-  a special section of the software.
+  2. You must disclose the source, and retain the licensing, 
+  ad verbum, of the software in the source code, including 
+  this notice. You do not need  to disclose the license in the
+  binary form of the software, but source attribution is always 
+  required in  binary form in a special section of the software.
 
   3. You may not use the names of the copyright holders 
   and/or the contributors/developers for endorsement of a
@@ -25,7 +25,7 @@ following conditions:
   4. The license may not be modified other than the removal
   of clauses (and consequently, numbering) by the maintainer 
   of the project, modification of the marked editable parts of
-  the license.
+  the license. 
 
 THIS SOFTWARE IS PROVIDED 'AS-IS', WITHOUT ANY EXPRESS OF IMPLIED 
 WARRANTY. IN NO EVENT SHALL THE AUTHORS BE HELD LIABLE FOR ANY 
