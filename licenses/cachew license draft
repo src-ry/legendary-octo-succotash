@@ -4,7 +4,7 @@ Cachew Public License Draft
 
 Permission is granted to anyone who wishes to use this software for
 distribution in source or binary form, modification, publishing, 
-commercial, consumer, private and/or special usage, under the 
+commercial, consumer, private, and/or special usage, under the 
 following conditions:
 
   1. You may not falsely represent the original source of the 
@@ -14,7 +14,8 @@ following conditions:
   2. You must disclose the source and license of the software 
   in the source code, including this notice. You do not need 
   to disclose the license in the binary form of the software, 
-  but source attribution is always required in binary form.
+  but source attribution is always required in binary form in
+  a special section of the software.
 
   3. You may not use the names of the copyright holders 
   and/or the contributors/developers for endorsement of a
@@ -23,7 +24,8 @@ following conditions:
 
   4. The license may not be modified other than the removal
   of clauses (and consequently, numbering) by the maintainer 
-  of the project, or to add  your branding to the license.
+  of the project, modification of the marked editable parts of
+  the license.
 
 THIS SOFTWARE IS PROVIDED 'AS-IS', WITHOUT ANY EXPRESS OF IMPLIED 
 WARRANTY. IN NO EVENT SHALL THE AUTHORS BE HELD LIABLE FOR ANY 
