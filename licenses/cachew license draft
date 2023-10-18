@@ -1,13 +1,12 @@
 ------------------------------------------------------------------
                         DELETE ME WHEN READ
-Modifiable parts of the license are marked with [two brackets]. If
+Boilerplate parts of the license are marked with [two brackets]. If
 you wish to remove some clauses of the license, you are welcome to.
 
 Once you read this, please delete this because this is absolutely
 useless to most people who want to see your license.
 
 ------------------------------------------------------------------
-
 
 
 Cachew Public License Draft
@@ -18,28 +17,37 @@ distribution in source or binary form, modification, publishing,
 commercial, consumer, private, and/or special usage, under the 
 following conditions:
 
-  1. You may not falsely represent the original source of the 
+  1. Any contributions shall be licensed to the terms of the
+  license. You may not change the licensing of your 
+  contributions without prior approval of the maintainer(s) of
+  the project.
+
+  2. You may not falsely represent the original source of the 
   software; for example, you may not tell people you created
   or wrote this project if you are not the original author.
 
-  2. You must disclose the source, and retain the licensing, 
-  ad verbum, of the software in the source code, including 
-  this notice. You do not need  to disclose the license in the
-  binary form of the software, but source attribution is always 
-  required in binary form in a special section of the software.
+  3. You must disclose the source, and retain the licensing, 
+  ad verbum, in the source code, including this notice. You 
+  do not need  to disclose the license in the binary form of  
+  the software, however it is strongly prefered.
 
-  3. You may not use the names of the copyright holders 
+  4. You may not use the names of the copyright holders 
   and/or the contributors/developers for endorsement of a
   derivative of this software unless you were given explicit, 
-  written consent from each of the individuals you wish to use
-  their names. Exception is granted for attribution of the 
-  forked software.
+  written consent from the individuals you wish to use their 
+  names. Exception is granted for attribution to the origin
+  of the derivative.
 
-  4. The license may not be modified other than the removal
-  of clauses (and consequently, numbering) by the maintainer 
-  of the project, modification of the marked editable parts of
+  5. The license may not be modified other than the removal
+  of clauses (also known as sublicensing) by the maintainer 
+  of the project, modification of the boilerplate parts of
   the license. 
 
 THIS SOFTWARE IS PROVIDED 'AS-IS', WITHOUT ANY EXPRESS OF IMPLIED 
 WARRANTY. IN NO EVENT SHALL THE AUTHORS BE HELD LIABLE FOR ANY 
 DAMAGES ARISING FROM THE USAGE OF THE SOFTWARE.
+
+----------------------------------------------------------------------
+Maintainers:
+
+[maintainer], <[email]>
