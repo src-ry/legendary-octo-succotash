@@ -1,7 +1,7 @@
 # Licenses
 Liceenses here have not been reviewed by the OSI and therefore not classified as open-source licensing.
 
-## Zeppelin License
+## [Zeppelin License](https://github.com/src-ry/legendary-octo-succotash/blob/main/licenses/Zeppelin%20License%20Draft)
 Designed mostly for the needs of my projects, purpose of this license is to allow users to use the code with minimal restrictions whilst giving the origin of the source credit. It finds inspiration from the Apache License, the zlib license, MIT License, however it is mostly written by hand. I might submit for review with the OSI. Amazing! 
 
 In short:
@@ -12,6 +12,3 @@ In short:
 * Don't modify the license for fucks sake.
 
 Congratulations! You now know the terms of the license.
-
-## Sharing is Caring License
-Genuinely do not use this license holy crap. Made for fun. It probably lacks legal merits too! Great! 
