@@ -41,10 +41,10 @@ private, and/or special usage, under the following conditions:
   product name. Exception is granted for attribution to the origin
   of the derivative.
 
-  5. The license may not be modified other than the removal
-  of clauses (also known as sublicensing) by the maintainer 
-  of the project, modification of the boilerplate parts of
-  the license. 
+  5. The license may not be modified other than the addition
+  of clauses (also known as sublicensing), modification of the 
+  marked boilerplate components of the license, and if the maintainer
+  of the origin, the removal of clauses.
 
 THIS SOFTWARE IS PROVIDED 'AS-IS', WITHOUT ANY EXPRESS OF IMPLIED 
 WARRANTY. IN NO EVENT SHALL THE AUTHORS BE HELD LIABLE FOR ANY 
