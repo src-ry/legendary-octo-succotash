@@ -1,0 +1,45 @@
+Zeppelin Public License Version 1.0 
+----
+(c) [year] [name] 
+
+Permission is hereby granted to anyone who wishes to use this software 
+for distribution in source or binary form, modification, publishing, 
+redistribution with or without modification, commercial, consumer,
+private, and/or special usage, under the following conditions:
+
+  1. Any contributions shall be licensed to the terms of the
+  license. You may not change the licensing of your 
+  contributions without prior approval of the maintainer(s) of
+  the project.
+
+  2. You may not falsely represent the original source of the 
+  software; for example, you may not tell people you created
+  or wrote this project if you are not the author or maintainer.
+
+  3. You must disclose the source, and retain the licensing, 
+  ad verbum, in the source code, including this notice. You 
+  are not required to disclose the license in the binary form 
+  of the software, however it is strongly recommended. You must
+  attribute the source of the origin in the binary form, however.
+
+  4. You may not use the names of the copyright holders 
+  and/or the contributors/developers for endorsement of a
+  derivative of this software unless you were given explicit, 
+  written consent from the individuals you wish to use their 
+  names. This include trademark, trade name, service name and
+  product name. Exception is granted for attribution to the origin
+  of the derivative.
+
+  5. The license may not be modified other than the addition
+  of clauses (also known as sublicensing), modification of the 
+  marked boilerplate components of the license, and if the maintainer
+  of the origin, the removal of clauses.
+
+THIS SOFTWARE IS PROVIDED 'AS-IS', WITHOUT ANY EXPRESS OF IMPLIED 
+WARRANTY. IN NO EVENT SHALL THE AUTHORS BE HELD LIABLE FOR ANY 
+DAMAGES ARISING FROM THE USAGE OF THE SOFTWARE.
+
+----------------------------------------------------------------------
+Maintainers:
+
+[maintainer], <[email]>
