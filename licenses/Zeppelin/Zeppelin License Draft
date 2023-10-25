@@ -28,10 +28,10 @@ private, and/or special usage, under the following conditions:
   or wrote this project if you are not the author or maintainer.
 
   3. You must disclose the source, and retain the licensing, 
-  ad verbum, in the source code, including this notice. You 
+  ad verbum, in the source form, including this notice. You 
   are not required to disclose the license in the binary form 
-  of the software, however it is strongly recommended. You must
-  attribute the source of the origin in the binary form, however.
+  of the software, however it is strongly recommended; you must,
+  however, attribute the origin in the binary form.
 
   4. You may not use the names of the copyright holders 
   and/or the contributors/developers for endorsement of a
@@ -49,8 +49,3 @@ private, and/or special usage, under the following conditions:
 THIS SOFTWARE IS PROVIDED 'AS-IS', WITHOUT ANY EXPRESS OF IMPLIED 
 WARRANTY. IN NO EVENT SHALL THE AUTHORS BE HELD LIABLE FOR ANY 
 DAMAGES ARISING FROM THE USAGE OF THE SOFTWARE.
-
-----------------------------------------------------------------------
-Maintainers:
-
-[maintainer], <[email]>
